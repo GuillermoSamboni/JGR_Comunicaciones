@@ -2,9 +2,9 @@ const axios = require("axios");
 
 // Función para enviar correo electrónico
 function sendEmail(email) {
-  const url = "https://api.mailjet.com/v3.1/send";
-  const apiKey = "891a2887b5878a0c5dd6747640b29b18";
-  const apiSecret = "0fc83703a0e1a9ca95c7b6dd7582000d";
+  const url = process.env.URL
+  const apiKey = process.env.API_KEY
+  const apiSecret = process.env.API_SECRET
 
   // Datos del correo electrónico
   const data = {
