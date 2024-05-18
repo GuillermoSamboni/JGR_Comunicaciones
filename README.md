@@ -20,6 +20,6 @@ Formulario de Contacto: Permite a los clientes potenciales ponerse en contacto c
 ![App Screenshot](https://firebasestorage.googleapis.com/v0/b/sources-24689.appspot.com/o/images-shared%2Fjgr_comunicaciones%2Fjgr_services.png?alt=media&token=d33b6bea-3ed7-485e-ac7d-30e116c582d0)
 ## 📧 Contacto
 
-- [@GuillermoSamboni](https://www.github.com/octokatherine)
+- [@GuillermoSamboni](https://www.github.com/GuillermoSamboni)
 
 Para cualquier pregunta o sugerencia, por favor contactar a travez de  gsamruadev@gmail.com.
